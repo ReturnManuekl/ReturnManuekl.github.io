@@ -11,7 +11,7 @@
     let projects = [
         {
             title: 'Sac-visa',
-            img: '/img/sacvisa.jpg',
+            img: '/img/sacvisa1.jpg',
             text: 'I developed an informative and attractive website about hydraulic concrete, highlighting the properties, applications, and advantages of this material. Serving as a resource for both construction professionals and customers interested in purchasing concrete products.',
             live: 'https://www.sacvisa.com.mx/',
         },
@@ -23,7 +23,7 @@
         },
         {
             title: 'Sports Forecaster',
-            img: '/img/sport.jpg',
+            img: '/img/sport1.jpg',
             text: 'I developed an interactive and dynamic web application that provides hockey fans with a complete guide to NHL draft day. The platform includes information on strategies, players to watch, and tips to maximize the draft experience. Participating primarily in the Front end with Vue.js',
             live: 'https://sportsforecaster.com/',
         },

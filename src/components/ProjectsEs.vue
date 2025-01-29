@@ -11,7 +11,7 @@
     let projects = [
         {
             title: 'Sac-visa',
-            img: '/img/sacvisa.jpg',
+            img: '/img/sacvisa1.jpg',
             text: 'Desarrolle un sitio web informativo y atractivo sobre concretos hidráulicos, destacando las propiedades, aplicaciones y ventajas de este material. Sirviendo como un recurso tanto para profesionales de la construcción como para clientes interesados en adquirir productos de concreto.',
             live: 'https://www.sacvisa.com.mx/',
         },
@@ -23,7 +23,7 @@
         },
         {
             title: 'Sports Forecaster',
-            img: '/img/sport.jpg',
+            img: '/img/sport1.jpg',
             text: 'Desarrolle una aplicación web interactiva y dinámica que proporcione a los fanáticos del hockey una guía completa sobre el día del draft de la NHL. La plataforma incluye información sobre estrategias, jugadores a seguir, y consejos para maximizar la experiencia del draft. Particimando principalmente en el Front endParticipación principalmente en el front end con Vue.js',
             live: 'https://sportsforecaster.com/',
         },

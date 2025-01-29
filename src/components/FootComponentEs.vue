@@ -2,7 +2,7 @@
     <div class="caja-foot">
         <h1>Contactame!</h1>
         <div>
-            <img class="icono-correo" src="/img/iconoCorreo.png" alt="">
+            <img class="icono-correo" src="/img/icono-correo.png" alt="">
             <a href="mailto: manuel.zerg@gmail.com">manuel.zerg@gmail.com</a>
             <img class="icono-in" src="/img/iconoIn.png"  alt="">
             <a target="_blank" href="https://www.linkedin.com/in/manuekl/">LinkedIn</a>
