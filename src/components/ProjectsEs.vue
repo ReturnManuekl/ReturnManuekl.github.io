@@ -17,7 +17,7 @@
         },
         {
             title: 'Ledezma y abogados',
-            img: '/img/abogados.jpg',
+            img: '/img/abogados.JPG',
             text: 'Desarrolle una página web profesional y atractiva para un bufete de abogados, que sirviera como plataforma informativa para clientes potenciales y actuales. Reflejar la seriedad y la experiencia del bufete, así como facilitar el contacto y la navegación.',
             live: 'https://ledezmayabogados.com.mx/nosotros-expertos-en-propiedad-intelectual/',
         },

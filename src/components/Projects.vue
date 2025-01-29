@@ -17,7 +17,7 @@
         },
         {
             title: 'Ledezma y abogados',
-            img: '/img/abogados.jpg',
+            img: '/img/abogados.JPG',
             text: 'I developed a professional and attractive website for a law firm, which would serve as an information platform for potential and current clients. It reflected the seriousness and experience of the firm, as well as facilitated contact and navigation.',
             live: 'https://ledezmayabogados.com.mx/nosotros-expertos-en-propiedad-intelectual/',
         },
